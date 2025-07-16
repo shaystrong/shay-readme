@@ -62,7 +62,7 @@
 - Quarterly check-ins → Revisit objectives and trajectory
 ---
 
-## 🗣️ Communication Style
+## Communication Style
 
 | Channel         | Priority   | Notes                                   |
 |-----------------|------------|-----------------------------------------|
