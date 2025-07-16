@@ -43,7 +43,7 @@
   I’ll admit what I don’t know. Please do the same.
 
 - **Time is respect**  
-  Chronic lateness sends a message. Let me know if you’ll be late. I’ll do the same.
+  Chronic lateness sends a message. Let me know if you’ll be late. I’ll do the same. Please accept or decline meeting invites.
 
 - **I care about you**  
   Your hobbies, family, and passions outside work matter to me.
