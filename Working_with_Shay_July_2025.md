@@ -3,7 +3,7 @@
 
 > *Dr. Shay Strong – VP of Analytics*  
 > ICEYE | Helsinki-based  
-> Slack-first | Deep tech + human-first leadership | “Data or death”
+> Slack-first | Deep tech + human-first leadership | “Data or death” | Introvert
 
 ---
 
